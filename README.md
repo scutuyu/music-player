@@ -1,9 +1,9 @@
 基于react实现的音乐播放器
 ===
 
-[参考视频](https://github.com/xiaolin3303/react-music-player)
+[参考源码](https://github.com/xiaolin3303/react-music-player)
 <br/>
-[参考源码](https://www.imooc.com/video/15480)
+[参考视频](https://www.imooc.com/video/15480)
 <br/>
 手敲，少量复制，目的是复习react，webpack的基本知识
 <br/>
