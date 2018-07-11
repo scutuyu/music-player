@@ -77,11 +77,11 @@ class App extends React.Component {
     // }).jPlayer('play');
     
     $('#player').jPlayer({
-      // ready: () => {
-      //   $(this).jPlayer('setMedia', {
-      //     mp3: this.props.currentItem && this.props.currentItem.file
-      //   }).jPlayer('play')
-      // },
+      ready: () => {
+        $(this).jPlayer('setMedia', {
+          mp3: this.props.currentItem && this.props.currentItem.file
+        }).jPlayer('play')
+      },
       supplied: 'mp3',
       wmode: 'window'
     });
