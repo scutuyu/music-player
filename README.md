@@ -2,8 +2,11 @@
 ===
 
 [参考视频](https://github.com/xiaolin3303/react-music-player)
+<br/>
 [参考源码](https://www.imooc.com/video/15480)
+<br/>
 手敲，少量复制，目的是复习react，webpack的基本知识
+<br/>
 视频中的老师使用的react(15.x)和webpack(1.x)的版本比较老，而我使用的版本比较新(react 16.x, webpack 4.x)，所以很多api接口都变了，如果是使用老版本的react和webpack可以参考我的[学习笔记](https://github.com/scutuyu/music-player/wiki/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
 
 # build
